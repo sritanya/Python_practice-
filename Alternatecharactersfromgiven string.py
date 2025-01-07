@@ -1,5 +1,5 @@
 s1 = input("Enter First String:")
-s2 = input("Enter Second String")
+s2 = input("Enter Second String:")
 s3 = ''
 
 if len(s1) ==  len(s2):
